@@ -13,15 +13,15 @@
 </p> 
 
 - ⚡ I am an Embedded Software Engineer.
-- ⚡ Sharing my knowledge and expertise with others is something I am enthusiastic about.
+- ⚡ I am passionate about sharing my knowledge and expertise with others.
 
 
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/osama-gabr"><img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
+<a href="mailto:eosama583@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
 <a href="https://t.me/Osama_Gabr"><img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/Telegram"></a>
 <a href="https://www.youtube.com/@Embedded.Projects"><img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
-<a href="mailto:eosama583@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
 
 ### 🛠 Skills
 ![C](https://img.shields.io/badge/-C%20language-05122A?style=flat&logo=C)&nbsp;
