@@ -12,7 +12,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- ⚡ I am an Embedded Software Engineer.
+- ⚡ I am interested in automotive embedded software.
 - ⚡ I am passionate about sharing my knowledge and expertise with others.
 
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/osama-gabr"><img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
 <a href="mailto:eosama583@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
 <a href="https://t.me/Osama_Gabr"><img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/Telegram"></a>
-<a href="https://www.youtube.com/channel/UCixoqzOQD-x93ineX488_pQ"><img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
+<!-- <a href="https://www.youtube.com/channel/UCixoqzOQD-x93ineX488_pQ"><img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a> -->
 
 
 ### 🛠 Skills
